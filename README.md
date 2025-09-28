@@ -1,7 +1,5 @@
-# Octave389 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTxVn2M/giphy.gif" alt="Coding GIF" width="100"/>
   <h1>👋 Hi, I'm Byiringiro Octave</h1>
   <h3>💻 Backend Developer based in Kigali, Rwanda</h3>
 </div>
