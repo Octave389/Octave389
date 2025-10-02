@@ -15,6 +15,11 @@ I combine strong technical skills with excellent communication and collaboration
 ## 🚀 Technologies & Skills
 
 ### Backend:
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -32,6 +37,12 @@ I combine strong technical skills with excellent communication and collaboration
 
    
 ### Tools:
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
+![FortiClient](https://img.shields.io/badge/FortiClient-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Herd PHP](https://img.shields.io/badge/Herd-777BB4?style=flat-square&logo=php&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -61,7 +72,7 @@ I combine strong technical skills with excellent communication and collaboration
 
 ## 🌐 Let's Connect
 
-- 🌍 **Portfolio**: [Octave.vercel.app](https://octave.vercel.app)  
+- 🌍 **Portfolio**: [Octave.vercel.app]()  
 - 📧 **Email**: [boctave389@gmail.com](mailto:boctave389@gmail.com)  
 - 📱 **Phone**: +250 791 274 497  
 - 💼 **LinkedIn**: [Octave Byiringiro](https://www.linkedin.com/in/byiringiro-octave-b9740a278/)  
@@ -69,4 +80,4 @@ I combine strong technical skills with excellent communication and collaboration
 
 ---
 
-⭐ From [octaveByiringiro](https://github.com/Octave389)
+ 
